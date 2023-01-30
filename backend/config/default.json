@@ -1,0 +1,18 @@
+{
+    "db_url": "mongodb+srv://floofable:123floofable@cluster0.22c9vdg.mongodb.net/?retryWrites=true&w=majority",
+    "local_db_url": "mongodb+srv://floofable:123floofable@cluster0.22c9vdg.mongodb.net/?retryWrites=true&w=majority",
+    "jwt_token_secret": "seCr3t-U1-VIll^&@-enc-kEY",
+    "refresh_jwt_token_secret": "NODEJS#@$ME!DI|CINE*ASHAO:WQ",
+    "Winston": {
+        "level": "debug"
+    },
+    "nodeMail": {
+        "mail": "mukund.semicolon@gmail.com",
+        "password": "nnxqypiyrorzqabx",
+        "service": "gmail"
+      },
+    
+    "timeZone": "Asia/Calcutta"
+
+   
+}

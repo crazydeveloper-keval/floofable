@@ -1,0 +1,49 @@
+.introduction_consultation {
+  font-weight: 500;
+  font-size: 12px;
+  color: #ffc107;
+  font-family: "Inter";
+}
+
+.introducttion_consultation_paragraph {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: "Inter";
+  color: #000000;
+  /* padding-right: 1px; */
+}
+
+.chatwithdoctore_image_div {
+  margin-top: 40px;
+  cursor: pointer;
+}
+
+.chatwithdoctore_imagetext_div {
+  margin-top: -12.6rem;
+  padding: 0px 0px 0px 50px;
+  z-index: 100;
+}
+
+.chatwithdoctore_image {
+  width: 615px;
+  height: 270px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.chat_with_A {
+  position: relative;
+  font-weight: 500;
+  font-size: 25px;
+  color: #000000;
+  font-family: "Inter";
+}
+
+.doctore {
+  position: relative;
+  color: #000000;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 34px;
+  margin-top: -19px;
+}
